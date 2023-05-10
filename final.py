@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 import numpy as np 
 import pandas as pd 
 from PIL import Image
-from sklearn.model_selection import train_test_split,cross_val_score
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
 
