@@ -37,7 +37,7 @@ with st.sidebar:
 
 # option : Home
 if selected == "Beranda":
-    st.write("# Aplikasi Pendeteksi Asap")
+    st.write("# Aku Cinta Rejak")
    
 
     image1 = Image.open('download.jpeg')
